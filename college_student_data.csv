@@ -1,0 +1,201 @@
+StudentID,FirstName,LastName,Gender,DateOfBirth,Course,EnrollmentDate,LastAttendanceDate,Grades,Status,Age,Email,TotalAbsences,PredictedDropout
+S1486,Joshua,Armstrong,Male,1997-12-13,Economics,2023-06-12,2024-11-21,78,Inactive,27,ohenson@example.org,6,Yes
+S6879,April,Thompson,Male,2006-03-13,Chemistry,2020-10-19,2024-03-14,88,Active,24,deanna50@example.net,1,No
+S3785,Jeffrey,Arnold,Female,1998-02-17,Computer Science,2023-12-02,2024-02-12,96,Inactive,23,wallskatherine@example.com,10,No
+S2604,Anna,Miller,Female,1994-06-16,Psychology,2023-04-19,2024-08-19,80,Inactive,30,arasmussen@example.net,3,Yes
+S6072,Joshua,Harris,Male,2000-01-12,Engineering,2024-08-17,2024-08-26,92,Active,25,gailwilcox@example.net,10,No
+S7478,Vicki,Powell,Male,1997-07-03,Biology,2023-11-16,2024-08-11,93,Active,29,monique63@example.net,1,No
+S5399,Steven,Nguyen,Male,2006-07-13,Computer Science,2023-12-31,2024-07-24,65,Active,24,cjuarez@example.org,10,Yes
+S8284,Julie,Kemp,Male,2005-02-02,Economics,2023-09-01,2024-06-25,71,Active,18,fernando61@example.net,0,No
+S7886,Justin,Spence,Female,1999-02-03,Economics,2022-11-18,2024-05-21,92,Inactive,27,amber32@example.com,6,Yes
+S5490,Nicholas,Murphy,Female,1996-07-31,Psychology,2020-03-14,2024-02-06,80,Inactive,26,williamsjoe@example.org,6,No
+S3731,Peter,Coleman,Male,1994-03-09,Mathematics,2021-01-04,2024-08-08,83,Active,23,christophermason@example.org,9,Yes
+S6262,Diamond,Ayers,Male,1997-05-02,Computer Science,2022-10-30,2024-11-08,70,Active,25,kleinbriana@example.net,8,No
+S8003,Madison,Sosa,Male,1995-04-26,History,2024-07-28,2024-01-12,92,Inactive,26,david58@example.net,2,No
+S8308,Jacob,Doyle,Female,2005-12-12,Psychology,2021-02-25,2024-06-11,95,Active,18,vcox@example.net,1,Yes
+S9596,Toni,Rivers,Male,2005-05-19,Computer Science,2023-08-07,2024-08-22,61,Active,27,pholmes@example.com,8,Yes
+S4024,Melissa,Wright,Female,1998-10-15,Philosophy,2024-12-07,2024-01-17,62,Inactive,24,wilsoncorey@example.net,0,Yes
+S5831,Paul,Romero,Female,1996-03-05,Biology,2020-04-14,2024-04-24,78,Inactive,26,patrick58@example.net,0,No
+S1794,Jacqueline,Mcdonald,Male,1998-04-06,History,2020-12-31,2024-07-26,79,Inactive,24,danielsreginald@example.com,4,No
+S8602,Charles,Zuniga,Male,1995-10-19,Economics,2022-12-16,2024-02-02,63,Inactive,23,jose18@example.com,5,No
+S3208,Brandon,Sanford,Male,2000-02-20,Chemistry,2020-06-26,2024-10-28,98,Inactive,26,duffyjames@example.org,9,No
+S8749,Kevin,Charles,Female,2000-06-22,Computer Science,2020-02-11,2024-04-04,65,Active,24,devontucker@example.org,8,No
+S8172,Barbara,Lester,Male,2006-01-25,Physics,2024-02-08,2024-07-28,87,Inactive,18,valerie08@example.com,9,No
+S6377,Christopher,Farrell,Male,2006-04-28,History,2023-03-26,2024-04-01,87,Inactive,27,gonzalezryan@example.net,3,No
+S2285,Lauren,Campbell,Female,2002-01-13,Chemistry,2021-01-01,2024-12-11,91,Inactive,29,lnavarro@example.com,10,Yes
+S6562,Kaitlyn,Arellano,Male,2000-03-07,Biology,2024-04-29,2024-08-28,100,Inactive,27,michael84@example.net,2,No
+S7554,Theresa,Phillips,Female,2005-10-17,Physics,2022-11-29,2024-05-08,70,Active,24,perezmisty@example.net,6,No
+S2547,Denise,Whitehead,Female,2003-11-30,Mathematics,2023-07-13,2024-12-07,70,Inactive,24,muellerbrandon@example.com,7,Yes
+S5133,Karen,Lewis,Male,1996-10-01,Mathematics,2024-10-09,2024-07-10,99,Inactive,22,joshua51@example.com,3,No
+S4686,Christopher,Burke,Female,1998-12-12,Biology,2020-11-28,2024-08-29,68,Active,19,pamelarodriguez@example.com,1,Yes
+S5738,Christina,Lloyd,Male,2003-08-19,Engineering,2020-03-04,2024-07-03,78,Active,22,chavezmegan@example.org,8,Yes
+S7660,Katrina,Horton,Male,2000-07-21,History,2023-05-12,2024-03-24,61,Inactive,28,hernandezchristina@example.net,8,Yes
+S4041,Wayne,Brown,Female,2000-12-18,History,2023-07-03,2024-06-19,87,Active,25,susanmckenzie@example.com,2,No
+S6320,Chad,Jackson,Male,1998-04-28,Psychology,2024-05-21,2024-12-13,79,Active,20,macklee@example.net,8,Yes
+S3254,Jessica,Potter,Male,2002-06-12,Physics,2022-01-20,2024-09-24,97,Inactive,19,cranerobert@example.net,9,No
+S3405,Laura,Stewart,Female,2000-11-01,Engineering,2020-10-04,2024-07-23,93,Active,23,jackson11@example.org,1,Yes
+S4121,Nicholas,Marks,Male,2002-05-17,Mathematics,2021-08-10,2024-03-15,76,Inactive,26,davidjohnson@example.net,9,Yes
+S5230,Zachary,Fleming,Male,1994-05-15,Biology,2024-07-12,2024-03-08,84,Inactive,24,tabitha37@example.com,8,Yes
+S8577,Daniel,Burton,Female,1996-06-05,Philosophy,2022-01-26,2024-08-03,78,Active,29,amberward@example.org,8,Yes
+S1054,Kelly,Morris,Female,2006-04-16,Computer Science,2021-08-30,2024-05-25,75,Active,23,qwilson@example.com,2,No
+S3799,Brandon,Hall,Female,2002-05-23,History,2023-08-10,2024-10-23,79,Active,19,williampierce@example.net,6,Yes
+S3435,Colleen,Henry,Female,2005-01-31,History,2023-04-24,2024-08-07,61,Active,28,jamesmacdonald@example.net,5,Yes
+S3321,Jo,Barajas,Female,1996-08-09,Physics,2021-10-12,2024-02-05,70,Inactive,22,catherine34@example.com,6,No
+S9028,Matthew,Thompson,Male,1994-02-10,Biology,2020-12-19,2024-04-28,85,Inactive,21,jose46@example.net,9,Yes
+S4839,Nicole,Barnett,Male,2006-04-16,Biology,2023-05-01,2024-05-10,70,Inactive,18,silvalauren@example.com,2,Yes
+S3589,Theresa,English,Female,1996-04-18,Psychology,2022-04-03,2024-11-10,66,Active,23,nicholas24@example.net,9,Yes
+S7876,Alexis,Tanner,Female,2001-08-19,Chemistry,2021-11-16,2024-08-28,79,Inactive,25,darrensanchez@example.net,10,Yes
+S4419,Lindsay,Rivera,Female,2002-05-09,Chemistry,2021-01-25,2024-11-15,99,Active,21,matthew53@example.org,9,Yes
+S5586,Jose,Sharp,Female,1995-01-26,Economics,2023-03-04,2024-02-24,69,Inactive,30,shunter@example.org,6,Yes
+S1077,Cynthia,Smith,Male,2004-10-10,Mathematics,2023-06-28,2024-03-28,72,Active,24,lawrence19@example.net,10,No
+S6219,Jasmine,Martinez,Male,2000-04-29,Psychology,2024-12-07,2024-02-28,74,Active,24,dawnadams@example.net,0,Yes
+S1008,Emily,Cooper,Female,1996-10-30,Philosophy,2021-10-02,2024-05-02,94,Active,22,rcunningham@example.com,7,Yes
+S7337,Joshua,Shelton,Female,2002-12-07,Chemistry,2022-02-02,2024-01-09,80,Active,26,raymondrandolph@example.org,9,Yes
+S7593,Monica,Murphy,Female,2000-10-02,Computer Science,2022-06-29,2024-09-09,87,Inactive,26,marthawalker@example.net,5,Yes
+S4478,Erin,Brown,Female,1999-07-30,Economics,2022-01-22,2024-09-24,92,Active,23,tammy99@example.com,8,No
+S8410,Vanessa,Johnson,Male,2002-02-26,Chemistry,2020-12-01,2024-09-30,60,Active,28,ihood@example.net,0,No
+S2259,Jeffery,Hernandez,Female,1998-12-06,Chemistry,2023-12-26,2024-10-30,96,Inactive,29,billcole@example.com,10,Yes
+S3506,Michelle,Aguirre,Female,2004-04-08,Computer Science,2021-01-16,2024-12-12,77,Active,26,wyoung@example.org,7,Yes
+S7592,Jeffery,Wilkerson,Female,1994-09-07,Mathematics,2023-10-29,2024-05-23,69,Active,27,banderson@example.com,2,No
+S4832,Carlos,Boone,Female,1994-06-12,Mathematics,2020-08-15,2024-09-01,84,Inactive,26,melissa73@example.net,2,Yes
+S5005,Gary,Taylor,Female,2002-12-28,Economics,2020-03-28,2024-06-05,64,Inactive,26,marshallsusan@example.net,6,Yes
+S8651,Julie,Rowe,Female,1997-11-06,History,2024-09-07,2024-04-25,70,Inactive,22,emilywhite@example.com,6,Yes
+S3787,Amy,Baldwin,Female,2003-10-21,Chemistry,2023-05-27,2024-07-07,87,Inactive,24,pricerobert@example.com,7,No
+S5016,Ernest,Thompson,Female,2004-09-05,Mathematics,2023-03-30,2024-02-28,100,Inactive,18,erika10@example.net,9,Yes
+S8716,Christy,Henderson,Male,2004-06-18,Biology,2023-09-15,2024-09-08,83,Inactive,24,wellsbeth@example.org,1,No
+S4687,Victoria,Case,Female,1999-03-05,Chemistry,2023-07-13,2024-03-18,79,Inactive,26,juliavaughn@example.com,6,No
+S4150,Jesse,Stewart,Female,1996-09-10,History,2020-11-02,2024-06-26,68,Active,24,hailey44@example.net,10,Yes
+S1576,Jennifer,Cook,Female,2002-01-26,Physics,2024-03-23,2024-05-22,93,Active,29,kmartin@example.org,5,No
+S8974,Elizabeth,Palmer,Female,2004-01-25,Philosophy,2024-04-28,2024-05-06,96,Inactive,18,charles34@example.org,4,Yes
+S2248,Stephanie,Campbell,Female,1996-08-03,Philosophy,2023-01-24,2024-05-04,62,Active,20,shermanchristine@example.net,3,Yes
+S2970,John,Trujillo,Female,2005-09-01,Physics,2020-06-02,2024-02-16,64,Active,25,torresjeffrey@example.net,6,Yes
+S6675,Ashley,Estrada,Female,1999-03-24,History,2020-11-15,2024-01-24,92,Active,29,simmonsdenise@example.org,6,No
+S7364,Jeffrey,Cardenas,Female,2004-10-31,Chemistry,2022-09-12,2024-08-16,77,Inactive,26,bettyhenson@example.com,8,No
+S1284,Jennifer,Hood,Female,1995-06-15,Computer Science,2021-10-08,2024-03-02,91,Active,19,jball@example.com,8,No
+S2304,Garrett,Garcia,Female,1995-01-27,Philosophy,2022-11-28,2024-11-27,70,Active,25,deborah47@example.com,7,Yes
+S6956,David,Peterson,Male,2003-03-16,Engineering,2022-03-22,2024-12-16,66,Inactive,20,mariajones@example.net,8,Yes
+S2282,Justin,Peterson,Male,1997-12-16,Biology,2020-12-05,2024-02-06,79,Inactive,22,silvacrystal@example.com,0,Yes
+S4776,Jessica,Daniel,Male,2001-09-11,Philosophy,2020-01-14,2024-02-13,96,Active,26,pruittjason@example.com,8,Yes
+S9083,Gina,Zamora,Male,2004-12-07,Engineering,2020-06-28,2024-02-27,84,Active,19,hendersonjordan@example.com,9,No
+S4044,Ashley,Hernandez,Female,2004-07-22,Physics,2024-01-26,2024-05-16,86,Active,27,kchavez@example.org,7,No
+S6486,Ashley,Martin,Male,2000-03-23,Psychology,2021-04-13,2024-05-25,73,Active,25,colleenmoore@example.net,3,No
+S1782,Heather,Murillo,Female,1994-06-30,Philosophy,2020-01-01,2024-04-23,100,Active,22,joanna33@example.net,2,No
+S1009,Bradley,Hawkins,Male,1995-03-20,Engineering,2023-03-11,2024-09-17,86,Inactive,28,stewartchristine@example.com,10,No
+S7571,Jose,Kelly,Female,1998-12-04,Computer Science,2023-01-26,2024-02-15,94,Active,30,tiffany55@example.com,0,No
+S5201,Michelle,Gutierrez,Female,1995-07-02,Computer Science,2020-12-17,2024-09-05,90,Active,21,danielbradley@example.net,9,No
+S5997,Alison,Sullivan,Male,1997-04-24,Philosophy,2020-07-03,2024-07-26,84,Active,30,michelle36@example.com,9,Yes
+S3352,Eric,Lutz,Male,2005-09-21,Psychology,2023-09-29,2024-12-18,64,Inactive,20,tranmichael@example.org,10,No
+S3516,Alexis,Dodson,Male,1995-05-03,Chemistry,2020-05-11,2024-05-02,71,Inactive,23,petersjoy@example.com,10,No
+S5202,Jorge,Schroeder,Female,1999-12-04,Biology,2024-10-05,2024-10-26,67,Active,30,josephwright@example.net,3,Yes
+S2991,Daniel,Jones,Female,2002-06-10,Chemistry,2020-08-14,2024-06-04,81,Active,23,marissa03@example.org,5,Yes
+S3440,Brittany,Patel,Male,2004-05-23,Chemistry,2021-07-18,2024-09-04,88,Active,25,wmartinez@example.org,0,Yes
+S1483,Ricky,Flynn,Male,2003-03-25,Computer Science,2021-08-01,2024-08-01,72,Active,23,bhoffman@example.org,0,Yes
+S5067,Greg,Calhoun,Female,1998-04-04,Computer Science,2023-06-22,2024-11-04,98,Active,22,morgansmith@example.com,9,Yes
+S6243,Alexander,Simmons,Female,1998-01-10,Psychology,2022-05-31,2024-12-17,90,Active,23,smcguire@example.org,6,Yes
+S5275,Randy,Higgins,Female,2002-08-01,History,2021-05-30,2024-01-16,85,Inactive,25,marybryant@example.net,1,No
+S4639,Donna,Gonzales,Female,1994-03-05,Physics,2021-12-20,2024-09-27,98,Inactive,27,christie10@example.com,10,No
+S1300,Clinton,Kelley,Male,1994-12-16,Psychology,2020-02-29,2024-02-16,62,Inactive,26,lindarichardson@example.org,3,No
+S5532,Tara,Anderson,Male,1998-05-11,Computer Science,2022-04-07,2024-11-08,63,Active,23,lgarrison@example.org,1,Yes
+S3834,Michael,Monroe,Male,2005-06-05,Computer Science,2020-03-11,2024-08-26,79,Inactive,20,lawrence17@example.org,10,Yes
+S3231,Courtney,Robinson,Male,1996-08-28,Biology,2024-03-10,2024-05-11,78,Inactive,28,michaelmcclure@example.org,5,Yes
+S2718,Scott,Moody,Male,1996-03-30,Philosophy,2022-08-15,2024-08-03,73,Active,24,bowersjimmy@example.net,3,No
+S3083,Matthew,Li,Male,2004-05-05,Computer Science,2024-11-18,2024-12-05,82,Active,24,nwilkinson@example.org,8,Yes
+S8791,Michael,Dixon,Male,1997-09-05,Biology,2020-06-14,2024-05-29,71,Inactive,19,isantos@example.com,2,No
+S9778,Bianca,Cantu,Female,2003-03-26,Chemistry,2020-12-22,2024-12-20,86,Inactive,24,mschneider@example.com,6,Yes
+S1165,Colin,Williams,Male,2005-07-08,Biology,2021-10-23,2024-06-16,88,Inactive,23,smithnatalie@example.com,5,Yes
+S4294,Sarah,Shaw,Female,1995-07-01,Chemistry,2022-02-19,2024-12-21,87,Active,21,russell31@example.org,3,No
+S5879,Karen,Nguyen,Female,2002-04-30,Mathematics,2024-10-20,2024-02-21,83,Inactive,27,tyleroneal@example.net,10,No
+S3542,Jessica,Harris,Male,2000-01-04,History,2021-06-19,2024-02-09,78,Inactive,18,milleraaron@example.org,0,No
+S2166,Suzanne,Hill,Male,2004-09-27,Economics,2022-04-17,2024-05-24,82,Active,27,stephen94@example.com,5,Yes
+S4196,Jason,Cole,Female,2004-03-03,Engineering,2021-01-29,2024-07-11,94,Inactive,21,amy91@example.net,7,Yes
+S2180,Frank,Rodriguez,Female,1995-06-19,Computer Science,2021-11-28,2024-07-30,72,Inactive,20,christinejones@example.com,9,No
+S7811,Lisa,Sellers,Female,1995-09-29,Economics,2023-02-23,2024-02-28,65,Inactive,18,bryan30@example.com,0,No
+S9989,Corey,Velez,Male,1996-07-21,Economics,2022-11-08,2024-09-27,74,Active,18,katherine87@example.org,8,Yes
+S5146,Kristin,Yoder,Male,2001-09-29,Psychology,2023-01-22,2024-09-07,61,Inactive,20,laura21@example.net,10,No
+S4421,Luke,Griffith,Female,1995-09-28,Chemistry,2023-07-31,2024-09-23,66,Inactive,24,tflores@example.com,10,Yes
+S1206,Chelsea,Villegas,Female,1999-01-17,Economics,2022-06-22,2024-01-10,68,Active,24,nicholsonamy@example.org,10,No
+S6882,Sara,Morales,Female,1997-06-22,Physics,2021-10-11,2024-11-10,94,Active,18,frederickrachel@example.net,4,Yes
+S5503,Donald,Torres,Female,2004-09-24,Psychology,2024-10-23,2024-05-09,70,Active,18,jacob89@example.org,5,Yes
+S9243,Michaela,Cummings,Male,2004-06-17,Engineering,2024-06-12,2024-03-23,87,Inactive,30,rnewton@example.com,5,Yes
+S9646,Lori,James,Female,1997-08-19,Engineering,2020-01-26,2024-05-06,64,Inactive,30,emilyjackson@example.net,2,No
+S7317,Jay,Torres,Male,2004-05-06,History,2021-06-11,2024-10-15,96,Active,24,xwood@example.com,0,Yes
+S5024,David,Miller,Male,2005-01-28,Philosophy,2024-07-06,2024-11-24,75,Active,26,katherine02@example.org,2,Yes
+S1065,Jennifer,Young,Male,2001-12-17,Economics,2024-06-09,2024-06-15,69,Active,29,xjones@example.com,3,Yes
+S5499,Danny,Alexander,Male,1994-06-03,Mathematics,2021-02-06,2024-01-12,62,Inactive,28,mark86@example.net,7,Yes
+S6190,James,Jones,Male,1996-03-24,Chemistry,2023-07-21,2024-01-03,80,Active,30,anthonywhitehead@example.org,8,Yes
+S4976,Chelsea,Huerta,Male,2003-04-14,Economics,2024-06-01,2024-05-21,62,Inactive,26,curtis85@example.com,10,No
+S3390,Kyle,Hunter,Male,1998-11-19,Psychology,2024-08-30,2024-01-15,91,Active,20,zjones@example.net,9,Yes
+S6616,Rachel,Neal,Female,2003-12-28,Physics,2024-10-13,2024-03-29,91,Active,24,mary68@example.com,2,Yes
+S6604,Anthony,Gonzalez,Male,2004-03-17,Computer Science,2024-10-14,2024-07-12,99,Inactive,29,thomasromero@example.com,5,No
+S1069,Kevin,Smith,Female,1994-01-13,Mathematics,2020-02-21,2024-01-31,91,Active,21,yparker@example.org,10,Yes
+S9034,Kari,Jones,Female,2006-01-01,Computer Science,2023-03-20,2024-08-12,79,Active,24,mark70@example.net,3,Yes
+S4688,Stacy,Thomas,Female,1999-01-28,Philosophy,2022-05-10,2024-06-21,100,Active,23,linbrandon@example.net,4,Yes
+S5262,Jennifer,Smith,Male,2003-03-03,Physics,2022-07-13,2024-01-24,82,Inactive,20,dramirez@example.org,3,Yes
+S2786,Jennifer,Gray,Male,2006-11-23,History,2023-08-06,2024-02-10,91,Inactive,25,russellbrian@example.org,2,Yes
+S6286,Emily,Park,Female,2003-10-17,Physics,2023-10-21,2024-09-06,100,Inactive,25,robin40@example.com,3,No
+S6456,Jackie,Wolfe,Male,2001-12-07,Biology,2023-01-23,2024-06-11,68,Active,18,nicholas83@example.org,10,Yes
+S6782,Stacy,Wilson,Female,1996-10-05,Computer Science,2023-05-23,2024-09-22,62,Inactive,29,reedchristina@example.com,10,No
+S8976,Brandon,Barnes,Female,1998-10-25,History,2023-03-28,2024-07-28,81,Inactive,21,wryan@example.net,3,No
+S2127,Curtis,Mitchell,Female,2001-09-04,History,2021-08-26,2024-12-06,84,Inactive,18,johnsongary@example.org,7,No
+S5423,Stephen,Green,Female,1997-03-03,Physics,2021-06-02,2024-06-06,60,Active,23,ashleyali@example.net,8,No
+S5029,Veronica,Woodward,Male,2004-05-05,History,2021-06-16,2024-10-25,94,Inactive,21,toddriley@example.net,10,Yes
+S5967,Daniel,Morris,Female,2001-06-01,Philosophy,2023-08-13,2024-02-25,64,Inactive,19,ubrooks@example.com,3,No
+S1554,Melissa,Mckee,Female,2001-04-11,Computer Science,2022-12-30,2024-10-15,69,Inactive,19,tkidd@example.org,4,No
+S6462,Michelle,Ramos,Male,2002-01-05,Chemistry,2023-01-24,2024-05-18,61,Active,18,ophillips@example.org,3,No
+S2951,Karen,Wheeler,Male,2002-06-18,Physics,2023-06-24,2024-08-11,60,Active,25,richardkrueger@example.org,9,Yes
+S5466,Vincent,Torres,Male,1999-12-19,Biology,2020-08-03,2024-06-27,69,Inactive,29,keith87@example.net,4,Yes
+S3446,Harold,Griffin,Female,1999-06-07,Computer Science,2023-07-10,2024-10-19,90,Active,24,hicksthomas@example.net,0,Yes
+S3496,Jennifer,Moore,Male,2006-05-20,Computer Science,2023-07-30,2024-11-01,75,Active,18,hwilliams@example.net,9,Yes
+S6795,Andrew,Andrews,Female,2004-04-14,Mathematics,2023-02-16,2024-06-26,71,Active,23,jennifer70@example.com,3,No
+S5648,Christopher,Barnes,Male,2001-10-06,Mathematics,2024-11-13,2024-11-09,61,Inactive,29,simmonssara@example.com,8,Yes
+S6886,Jodi,Poole,Male,1998-09-09,Economics,2022-04-09,2024-10-20,77,Active,29,jessicabrewer@example.org,9,Yes
+S1672,Sara,Lee,Female,1997-06-09,History,2022-10-31,2024-08-26,73,Inactive,25,simpsonnorman@example.com,6,Yes
+S7044,Denise,Klein,Female,2006-09-22,Mathematics,2022-10-06,2024-10-08,83,Active,25,summersemily@example.org,9,Yes
+S2738,Michael,Washington,Female,1996-09-14,Physics,2022-05-15,2024-07-31,63,Inactive,21,fgrant@example.net,6,Yes
+S5685,Jennifer,Howard,Male,2006-05-04,Psychology,2020-02-22,2024-03-19,88,Inactive,19,reynoldsheather@example.org,3,No
+S8591,Erin,Santana,Male,1999-02-03,Physics,2020-07-03,2024-11-22,94,Active,25,mspencer@example.net,0,No
+S1921,Hannah,Stafford,Male,1994-02-06,Psychology,2024-01-14,2024-03-24,93,Active,18,katiejoyce@example.org,9,Yes
+S7797,Vicki,Harvey,Male,2002-04-13,Philosophy,2021-09-28,2024-04-28,91,Inactive,18,tyrone77@example.com,8,No
+S1176,James,Long,Female,1995-05-12,Philosophy,2024-10-28,2024-03-17,79,Active,18,ufoster@example.net,4,Yes
+S5574,Kelsey,Gill,Male,2004-06-01,Engineering,2023-02-02,2024-06-08,80,Inactive,23,zsampson@example.net,1,No
+S7154,Jeremy,Riggs,Male,2006-12-16,Philosophy,2022-06-23,2024-11-08,83,Active,29,jessicalawrence@example.com,7,Yes
+S7122,Natalie,Adams,Female,1995-06-19,Psychology,2021-08-24,2024-04-09,73,Inactive,20,jeremydavis@example.org,9,No
+S4076,Jesse,Meyers,Female,2002-11-07,Physics,2024-06-27,2024-09-02,70,Active,24,taylorjuan@example.org,5,Yes
+S4744,Cynthia,Mcgee,Female,2002-05-06,Computer Science,2020-04-06,2024-03-15,80,Active,29,cdominguez@example.com,1,No
+S6357,Roger,Marshall,Female,1998-01-06,Computer Science,2024-12-22,2024-10-16,63,Inactive,19,mahoneycheryl@example.com,9,Yes
+S7584,Julia,Duncan,Male,2001-11-25,History,2020-02-20,2024-04-23,90,Active,21,benjamingarcia@example.net,2,Yes
+S7092,Christopher,Vaughn,Female,2001-12-29,Engineering,2020-03-22,2024-05-09,94,Inactive,23,qcross@example.org,3,No
+S1824,Cathy,Wallace,Female,2002-05-29,Psychology,2020-05-19,2024-04-06,77,Inactive,22,austinrichards@example.org,10,No
+S5227,Nicole,Miller,Female,2006-04-15,Philosophy,2022-06-18,2024-04-21,81,Inactive,22,pollardwilliam@example.net,9,Yes
+S6593,Andrea,Spencer,Female,1998-03-15,Physics,2021-08-24,2024-11-05,66,Inactive,23,kevinpatrick@example.net,1,No
+S1074,Robert,Rice,Female,2005-03-26,Chemistry,2021-08-16,2024-03-17,78,Active,23,amandarodriguez@example.net,9,No
+S8542,Tara,Wolfe,Female,2005-07-06,Biology,2023-03-21,2024-07-06,88,Inactive,29,courtney93@example.net,4,No
+S7899,Tim,Barnes,Male,2006-01-17,Computer Science,2020-04-17,2024-10-26,62,Inactive,26,daniel68@example.com,8,Yes
+S8978,Mary,Noble,Male,2000-03-09,Mathematics,2021-08-14,2024-06-04,66,Inactive,28,calebbruce@example.net,0,No
+S4353,Erica,Mckenzie,Female,1995-03-02,History,2021-08-16,2024-04-26,62,Active,22,james38@example.com,2,No
+S5500,Katie,Parker,Male,2004-01-27,Mathematics,2021-04-20,2024-10-17,85,Inactive,19,timothycamacho@example.org,6,Yes
+S1693,Larry,Williams,Female,1999-12-10,Engineering,2023-07-28,2024-05-02,98,Active,30,deborahkemp@example.org,10,Yes
+S5701,Olivia,Walker,Male,1994-08-03,Computer Science,2024-04-11,2024-09-14,75,Active,26,andrebrooks@example.net,8,Yes
+S5051,Sharon,Bender,Male,2001-02-05,Chemistry,2024-06-02,2024-08-19,84,Inactive,19,willislaura@example.net,7,Yes
+S5258,Gary,Phillips,Female,1995-06-11,Engineering,2020-05-07,2024-10-05,69,Active,25,john11@example.net,1,No
+S6994,Jessica,Ross,Female,2004-04-14,Economics,2022-01-08,2024-08-10,62,Active,21,elliskim@example.org,10,No
+S7238,Sabrina,Hernandez,Female,1996-12-04,Computer Science,2023-03-13,2024-01-31,66,Active,20,cameron11@example.com,3,No
+S8825,Adam,Lopez,Male,1995-04-10,Computer Science,2020-05-10,2024-11-16,60,Active,27,cmoore@example.org,4,Yes
+S2983,William,Vega,Female,2001-05-21,Economics,2020-04-03,2024-05-17,65,Inactive,20,crodriguez@example.com,4,No
+S7562,Samantha,Ellis,Male,1994-10-21,History,2024-08-18,2024-06-21,86,Active,19,vbutler@example.com,3,Yes
+S3009,Jessica,Blackwell,Female,1995-01-05,History,2022-06-18,2024-03-07,62,Active,21,christopher58@example.net,9,Yes
+S8209,Bobby,Brown,Male,2004-03-15,Computer Science,2021-03-07,2024-03-01,64,Inactive,22,gblackburn@example.net,10,No
+S8609,Robert,Johnson,Male,1995-03-28,Chemistry,2024-06-22,2024-11-29,90,Active,18,tharris@example.org,8,Yes
+S5041,Christina,Manning,Male,2002-08-05,Physics,2022-10-14,2024-11-22,70,Active,27,williamlee@example.org,2,Yes
+S4010,Jill,Bass,Female,1999-09-29,Philosophy,2023-11-29,2024-04-20,63,Active,23,kevingonzalez@example.org,3,No
+S5812,Valerie,Thomas,Female,2001-08-30,Economics,2023-11-03,2024-09-12,72,Active,30,ysanders@example.org,5,No
+S4997,Justin,Anthony,Male,1998-12-03,Engineering,2022-03-01,2024-01-10,69,Active,30,luis70@example.net,5,Yes
+S1193,Sandra,Wilson,Male,2005-10-02,Philosophy,2024-06-09,2024-10-19,86,Inactive,19,smithrichard@example.org,4,No
+S8735,Allison,Woods,Male,1994-02-14,Mathematics,2021-01-21,2024-01-25,94,Active,25,ihernandez@example.org,1,No
+S3843,Nicholas,Avila,Female,1996-12-09,History,2023-06-23,2024-01-31,65,Inactive,25,allenchristian@example.net,8,Yes
+S1328,Jennifer,Brown,Female,1996-10-01,Computer Science,2021-06-08,2024-04-29,96,Active,30,whitakertimothy@example.com,9,No
+S9297,Nicholas,Bailey,Male,2000-07-26,Economics,2020-07-11,2024-11-30,82,Inactive,30,jameschapman@example.net,5,No
+S3897,Amy,Clayton,Male,2002-03-12,Computer Science,2022-02-26,2024-10-10,92,Active,27,michaelagreene@example.org,1,Yes
+S1669,Natalie,Robinson,Female,2000-11-30,Physics,2022-08-14,2024-06-28,70,Inactive,26,jenniferbailey@example.net,5,Yes
+S2556,Erin,Ballard,Female,2005-01-16,Biology,2023-02-21,2024-03-28,84,Active,28,jason62@example.org,1,No
+S8646,Tara,Chavez,Male,1996-06-25,Physics,2021-12-25,2024-03-28,85,Inactive,30,ucannon@example.org,0,No
